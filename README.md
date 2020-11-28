@@ -9,7 +9,5 @@ Web untuk menampilkan dan memilih menu makanan bagi pelanggan.
 
 
 <i>Berikut contoh tampilannya:</i>
+
 ![Large + device](https://github.com/atiakhairunican/Devops-Engineer/blob/main/img/cth1.png)
-![Medium device](https://github.com/atiakhairunican/Devops-Engineer/blob/main/img/cth2.png)
-![Small device](https://github.com/atiakhairunican/Devops-Engineer/blob/main/img/cth3.png)
-![Overlay](https://github.com/atiakhairunican/Devops-Engineer/blob/main/img/cth4.png)
