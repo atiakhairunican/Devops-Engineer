@@ -2,7 +2,7 @@
 Web untuk menampilkan dan memilih menu makanan bagi pelanggan.
 
 
-## Application Used
+### Used
 * HTML5
 * CSS Layouting
 * Bootstrap 4
